@@ -40,6 +40,8 @@
 
 ## __git merge branch_name__ - merging current branch with branch_name
 
+
+
 ---
 
 # Instruction for Markdown
