@@ -36,6 +36,8 @@
 
 * __git branch -D branch_name__ - force delete selected branch
 
+* __git merge branch_name__ - производит слитие текущей ветки и branch_name
+
 ---
 
 # Instruction for Markdown
