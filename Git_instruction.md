@@ -78,11 +78,11 @@ Like this:
 
 ## 3. __Images__
 
-![]() - for add a photo 
+!(square brackets)(parentheses) - for add a photo 
 
 Like this:
 
-![Привет, как дела? аахахXD](Ya.jpg)
+![Вафлю во рту очень похожа на губы дональд дака и суфле как язык](donald_duck.jpg)
 
 ---
 
