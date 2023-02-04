@@ -4,6 +4,10 @@
 
 * __git status__ - show untracked files
 
+* __git log__ - show story of commits
+
+* __git diff__ - show difference between current state and last commit
+
 ---
 
 ### __git add__ - add file version
@@ -26,9 +30,13 @@
 
 ---
 
-* __git log__ - show story of commits
+## __git branch__ - show the list of branches
 
-* __git diff__ - show difference between current state and last commit
+* __git branch branch_name__ - create a new branch
+
+* __git branch -d branch_name__ - delete selected branch
+
+* __git branch -D branch_name__ - force delete selected branch
 
 # Instruction for Markdown
 
