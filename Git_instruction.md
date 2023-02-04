@@ -30,14 +30,6 @@
 
 ---
 
-## __git branch__ - show the list of branches
-
-* __git branch branch_name__ - create a new branch
-
-* __git branch -d branch_name__ - delete selected branch
-
-* __git branch -D branch_name__ - force delete selected branch
-
 # Instruction for Markdown
 
 ## 1. __Text highlighting__
