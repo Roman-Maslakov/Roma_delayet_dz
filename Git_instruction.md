@@ -39,7 +39,9 @@
 ---
 
 * __git merge branch_name__ - производит слитие текущей ветки и branch_name
-
+sdfsdfsd
+xascef
+asfefe
 ---
 
 # Instruction for Markdown
