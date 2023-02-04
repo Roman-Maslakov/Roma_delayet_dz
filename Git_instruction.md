@@ -38,6 +38,10 @@
 
 ---
 
+## __git merge branch_name__ - merging current brench with brench_name
+
+---
+
 # Instruction for Markdown
 
 ## 1. __Text highlighting__
