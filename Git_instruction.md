@@ -82,7 +82,7 @@ Like this:
 
 Like this:
 
-![Привет, как дела? аахахXD](Ya.jpg)
+
 
 ---
 
