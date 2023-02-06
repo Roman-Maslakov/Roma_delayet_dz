@@ -42,6 +42,32 @@
 
 ---
 
+# Operating with remote repository
+
+* __git clone__ - allow us to copy external repository to our local PC
+
+* __git pull__ - allow us to download file from current remote repository and automatically merge with our version
+
+* __git push__ - allow us to send local version of repository to remote repository (Authentification required)
+
+## How to pull request
+
+1. Proceed *fork* of repository
+
+2. Make a *clone* of **our** version of repository
+
+3. Create a new branch, __switching__, and do some changes
+
+4. __git commit__
+
+5. __git push__
+
+6. Click on the button *pull request* in GitHub
+
+7. Wait for answer. Succeed!
+
+---
+
 # Instruction for Markdown
 
 ## 1. __Text highlighting__
